@@ -1,3 +1,7 @@
+function type(obj){
+    return typeof(obj);
+}
+
 function multiply(num1,num2){//a
     return num1*num2;
 }
